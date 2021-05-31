@@ -4,7 +4,7 @@ I've been professionally developing for over a decade now. Yeah ... I'm getting 
 🔭 I mainly work with .NET ecosystem doing LOB application and also RPA with Selenium. 
 I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-end side and from Windows Services to ASP.NET Core Web API on the backend side (I love that part 😉).
 
-🌱 I’m currently learning and having with React and every single day trying to improve my DevOps skills.
+🌱 I’m currently learning and having fun with React and every single day trying to improve my DevOps skills.
 
 📫 You can reach me for some job proposals through [LinkedIn](https://www.linkedin.com/in/sebastianinones/) or also take a look at my [StackOveflow Developer Story](https://stackoverflow.com/users/story/3374615) which I try to keep updated as well.
 
