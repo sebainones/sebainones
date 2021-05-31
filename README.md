@@ -3,7 +3,14 @@ I've been professionally developing for over a decade now. Yeah ... I'm getting 
 
 🔭 I mainly work with .NET ecosystem doing LOB application and also RPA with Selenium. 
 I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-end side and from Windows Services to ASP.NET Core Web API on the backend side (I love that part 😉).
+
 🌱 I’m currently learning and having with React and every single day trying to improve my DevOps skills.
+
+📫 You can reach me for some job proposals through [LinkedIn](https://www.linkedin.com/in/sebastianinones/) or also take a look at my [StackOveflow Developer Story](https://stackoverflow.com/users/story/3374615) which I try to keep updated as well.
+
+💬 Ask me about RPA using Web Automation Frameworks such as Selenium or Telerik Testing Framework, or you can take a look at some of my articles about [Doing RPA with Selenium](https://www.linkedin.com/pulse/doing-rpa-withselenium-sebastian-inones/) for the skeptical ones...
+
+💬 Ask me about DevOps which something that Im' really keeon on, or you can take a look at some of my articles about [DevOps](https://www.linkedin.com/pulse/github-bitbucket-gitlabazure-devops-why-dont-use-them-inones/)
 
 <!--
 **sebainones/sebainones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
