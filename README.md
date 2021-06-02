@@ -13,6 +13,12 @@ I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-e
 💬 Ask me about DevOps which something that Im' really keeon on, or you can take a look at some of my articles about [DevOps](https://www.linkedin.com/pulse/github-bitbucket-gitlabazure-devops-why-dont-use-them-inones/)
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sebainones&theme=blue-green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sebainones&show_icons=true)
+
+
+<img src="https://img.shields.io/badge/made%20with-love-blue.svg" alt="made with love">
 <!--
 **sebainones/sebainones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
