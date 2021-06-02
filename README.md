@@ -15,10 +15,12 @@ I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-e
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sebainones&theme=blue-green)
 
+<!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sebainones&show_icons=true)
+-->
 
 
-<img src="https://img.shields.io/badge/made%20with-love-blue.svg" alt="made with love">
+<img src="https://img.shields.io/badge/made%20with-fun-blue.svg" alt="made with fun">
 <!--
 **sebainones/sebainones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
