@@ -1,5 +1,5 @@
 ### Hi there, I'm Sebastian Inones 👋. 
-#### I've been professionally developing for over a decade now. Yeah ... I'm getting older but not rusty 😋
+#### I've been professionally developing for over a decade now. Yeah ... I'm getting older but not getting rusty 😋
 
 🔭 I mainly work with .NET ecosystem doing LOB application and also RPA with Selenium. 
 I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-end side and from Windows Services to ASP.NET Core Web API on the backend side (I love that part 😉).
