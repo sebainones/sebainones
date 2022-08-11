@@ -6,7 +6,7 @@ I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-e
 
 🌱 I’m currently learning and having fun with React and every single day trying to improve my DevOps skills.
 
-📫 You can reach me for some job proposals through [<img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="drawing" width="18"/>](https://www.linkedin.com/in/sebastianinones/) or also take a look at my [<img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="18"/>Developer Story](https://stackoverflow.com/users/story/3374615) which I try to keep updated as well.
+📫 You can reach me for some job proposals through [<img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="drawing" width="18"/>](https://www.linkedin.com/in/sebastianinones/) or also take a look at my [<img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="18"/>StackOverflow Profile](https://stackoverflow.com/users/3374615/sebastian-inones) in which you can check my questions and answers and mainly the topics I'm most active at.
 
 💬 Ask me about RPA using Web Automation Frameworks such as Selenium or Telerik Testing Framework, or you can take a look at some of my articles about [Doing RPA with Selenium](https://www.linkedin.com/pulse/doing-rpa-withselenium-sebastian-inones/) for the skeptical ones...
 
