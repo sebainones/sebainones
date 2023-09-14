@@ -12,6 +12,7 @@ I've tasted most of the .NET flavors ranging from Winforms to UWP on the Front-e
 
 💬 Ask me about DevOps which something that Im' really keeon on, or you can take a look at some of my articles about [DevOps](https://www.linkedin.com/pulse/github-bitbucket-gitlabazure-devops-why-dont-use-them-inones/)
 
+<a rel="me" href="https://fosstodon.org/@sebainones">Mastodon</a>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sebainones&theme=blue-green)
 
@@ -35,4 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a rel="me" href="https://fosstodon.org/@sebainones">Mastodon</a>
+
